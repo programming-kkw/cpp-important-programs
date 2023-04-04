@@ -34,6 +34,6 @@ Made with [contrib.rocks](https://contrib.rocks).
 
 ## License
 
-This project uses the following license: [MIT License](LICENSE).
+This project uses the following license: **MIT License**.
 
 ## Thank You.

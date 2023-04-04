@@ -4,7 +4,7 @@ Welcome! We are glad that you want to contribute to our project. Please follow t
 
 ## 1. Creating an Issue
 
-If you find a bug or have a feature request, please create an issue first. This will allow us to discuss the changes and make sure that we are all on the same page before any work is done.
+If you find a bug or have to add a new program, please create an issue first. This will allow us to discuss the changes and make sure that we are all on the same page before any work is done.
 
 To create an issue, follow the steps below:
 
@@ -24,7 +24,7 @@ To contribute to this project, you will need to fork the repository to your own 
 After forking the repository, you will need to clone it to your local machine. You can do this by running the following command in your terminal:
 
 ```bash
-git clone https://github.com/<YOUR_USERNAME/cpp-important-programs.git
+git clone https://github.com/<YOUR_USERNAME>/cpp-important-programs.git
 ```
 
 ## 4. Making the Changes in the Required File
@@ -71,8 +71,6 @@ git push origin main
 Once you have pushed your changes to your forked repository, you will need to open a Pull Request. You can do this by going to your forked repository page on GitHub and clicking the "New pull request" button.
 
 ## 9. Adding Issue Number in the Pull Request Message
-
-## 8. Adding Issue Number in the Pull Request Message
 
 When you open a pull request, it's a good practice to include the issue number that the pull request relates to. This helps the repository maintainers to keep track of the changes made to the repository and to understand the context of the pull request.
 

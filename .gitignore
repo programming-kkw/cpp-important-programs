@@ -1,0 +1,5 @@
+*
+!readme_header.png
+!*.md
+!*.cpp
+!.gitignore

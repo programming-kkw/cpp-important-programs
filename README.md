@@ -29,9 +29,7 @@ To get started with contributing, read the [CONTRIBUTING.md](CONTRIBUTING.md) fi
 <a href="https://github.com/programming-kkw/c-important-programs/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=programming-kkw/c-important-programs" />
 </a>
-<a href="https://github.com/harshalself/Jungle-Unity/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=harshalself/Jungle-Unity" />
-</a>
+
 
 Made with [contrib.rocks](https://contrib.rocks).
 

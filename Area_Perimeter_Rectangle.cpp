@@ -31,8 +31,3 @@ int peri(float a,float b)
 	peri=2*(a+b);
 	return peri;
 }
-
-// Output
-
-
-
